@@ -12,7 +12,7 @@
     <link href="./bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="./bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
     <link href="./style.css" rel="stylesheet">
-
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
